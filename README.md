@@ -7,6 +7,5 @@ Site de révision pour l'évaluation de TP Java sur papier : lecture de code, te
 - un examen blanc imprimable avec son corrigé
 - une page de couverture des TP
 
-En ligne : https://gustor1.github.io/revision-tp-java/
 
 En local : ouvrir `index.html` dans un navigateur, sans installation. La progression est enregistrée dans le navigateur.
